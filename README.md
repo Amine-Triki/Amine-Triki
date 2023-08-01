@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html , css**
 
-- 📫 How to reach me **contact@aminetriki.com**
+- 📫 How to reach me **contact@aminetriki.com.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
