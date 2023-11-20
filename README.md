@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mr_amine_triki" target="blank"><img src="https://img.shields.io/twitter/follow/mr_amine_triki?logo=twitter&style=for-the-badge" alt="mr_amine_triki" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **html , css**
+- 💬 Ask me about **html , css , JavaScript**
 
 - 📫 How to reach me **contact@aminetriki.com.tn**
 
